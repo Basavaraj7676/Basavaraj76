@@ -6,7 +6,7 @@ I am Engineering student, interested in web development.
 
 Skills: HTML /CSS/JS/C/C++
 
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning java 
 - 💬 Ask me about C programming 
 - 📫 How to reach me: basavaraj656502@gmail.com 
 
