@@ -11,6 +11,6 @@ Skills: HTML /CSS/JS/C/C++
 - 📫 How to reach me: basavaraj656502@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Basavaraj7676)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://basavaraj767674.github.io/portfolio/ok/)  
+(https://basavaraj767674.github.io/portfolio/ok/)  
 
 
