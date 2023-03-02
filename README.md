@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Basavaraj
 #### code_with_frozen
-![code_with_frozen](https://assets.skyfilabs.com/images/blog/be-electronics-projects.webp)
+![code_with_frozen]
 
 I am Engineering student, interested in web development.
 
