@@ -4,7 +4,7 @@
 
 I am Engineering student, interested in web development.
 
-Skills: HTML /CSS/JS/C/C++
+Skills: HTML/CSS/JS/C/Java/Python/OpenCV
 
 - 🌱 I’m currently learning java 
 - 💬 Ask me about Web Development
